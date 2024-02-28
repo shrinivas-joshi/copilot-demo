@@ -1,5 +1,6 @@
 <header>
-
+<h1> PROJECT COMPLETED</h1>
+This project completed as part of Introduction to GitHub Copilot. 
 <!--
   <<< Author notes: Course header >>>
   Read <https://skills.github.com/quickstart> for more information about how to build courses using this template.
